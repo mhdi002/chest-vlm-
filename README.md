@@ -28,8 +28,8 @@ A state-of-the-art **PyTorch-based contrastive learning framework** that bridges
 
 <table>
 <tr>
-<td><img src="assets/qualitative_results.png" alt="Qualitative Retrievals" width="100%"/></td>
-<td><img src="assets/metrics_plots.png" alt="Evaluation Metrics" width="100%"/></td>
+<td><img src="assets/sample_predictions.png" alt="Qualitative Retrievals" width="100%"/></td>
+<td><img src="assets/evaluation_metrics.png" alt="Evaluation Metrics" width="100%"/></td>
 </tr>
 <tr>
 <td align="center"><b>🔍 Top-6 Retrieved X-rays for Input Reports</b></td>
